@@ -7,6 +7,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+## Exercici
 En qualsevol sistema que vulguis JS (React, Svelte, Nextjs, Astro,...) fes un fetch de https://developer.marvel.com/
 Un llistat de les pel·lícules de marvel ordenades per any. Intenta maquetar-ho que quedi ve.
 Només cal el list, no cal fer cap acció.
