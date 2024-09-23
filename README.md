@@ -9,9 +9,8 @@ Currently, two official plugins are available:
 
 
 
-npm create vite@lates
-
 1. Instala Node.js y npm
-npm init -y
-npm install react react-dom
-npx create-react-app nombre-del-proyecto
+2. npm -v
+3. npm init -y
+
+per crear unaltre projecte (npm install react react-dom, npx create-react-app "nom_projecte")
