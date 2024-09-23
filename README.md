@@ -15,6 +15,7 @@ Només cal el list, no cal fer cap acció.
 ## Problemas
 No hi ha API de pel·lícules, ho he fet de còmics, però l'apartat de 'data' no és un camp vàlid per tractar-ho com a 'date' i dona error, no obstant he ficat el codi que hauria d'haver-hi perquè s'ordenés per any.
 
+## Info perque funcioni
 1. Instala Node.js y npm
 2. npm -v
 3. npm init -y
